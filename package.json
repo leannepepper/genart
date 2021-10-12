@@ -1,0 +1,19 @@
+{
+  "name": "genart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sketch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openpalette/core": "^0.3.1",
+    "@popmotion/popcorn": "^0.4.4",
+    "canvas-sketch": "^0.7.4",
+    "canvas-sketch-util": "^1.10.0",
+    "three": "^0.133.0"
+  }
+}
